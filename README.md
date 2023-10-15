@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Hey, I'm Naveen Suthar! 👋
 
-- 🔭🔭 I’m currently working on **College Management System with a focus on a mobile-based QR Code system is an innovative and efficient approach. By integrating QR codes, you are streamlining processes and enhancing user experience.**
+- 🔭 I’m currently working on **College Management System with a focus on a mobile-based QR Code system is an innovative and efficient approach. By integrating QR codes, you are streamlining processes and enhancing user experience.**
 - 🌱 I’m currently learning **Android Development & Learn Java With Implement Data Structures and Algorithms(DSA).**
 - 👨‍💻 All of my projects are available at [https://naveenportfolio.me](https://naveenportfolio.me)
 - 💬 You can ask me about product development, how to turn your ideas into a startup, GCP / Cloud and Android; always happy to help 🤗
