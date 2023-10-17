@@ -43,3 +43,5 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge)
 
+
+[![@kochie's Holopin board](https://holopin.me/DevCode88)](https://www.holopin.io/@devcode88#)
