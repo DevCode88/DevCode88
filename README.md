@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 [![Contact information](https://img.shields.io/badge/Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveen_suthar@hotmail.com)
 [![Linkedin profile URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-suthar/)
 
-## What I built so far...
-<!-- - [couchSurvey](https://couchsurvey.com): SaaS Form & Survey Creation and Evaluation Tool (transitioned into Formbricks) -->
-- [MCQApplication](https://github.com/DevCode88/MCQApplication-master): MCQApplication is simple MCQ desktop application build using javafx.
+<!-- ## What I built so far... -->
+<!-- - [couchSurvey](https://couchsurvey.com): SaaS Form & Survey Creation and Evaluation Tool (transitioned into Formbricks) --> 
+<!-- - [MCQApplication](https://github.com/DevCode88/MCQApplication-master): MCQApplication is simple MCQ desktop application build using javafx. -->
 
 ## Technologies & frameworks I love
 
